@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm K.M. Sabir Mahmud Tanvir (CyberShade | Z3R0) 👾</h1>  
 
-<!--
-**Sabirtanvir12/Sabirtanvir12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Security+Researcher;Exploit+Developer+%7C+Pentester;Web+%26+Network+Exploitation;Social+Engineering+%7C+Malware+Development;Building+Custom+Hacking+Tools" alt="Typing SVG" />
+</p>  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+🔹 **Ethical Hacker & Security Researcher**   
+🔹 Focused on **Web & Network Exploitation, OSINT, and Social Engineering**  
+🔹 Exploring **Zero-Click Exploitation & Advanced Hacking Techniques**  
+🔹 Passionate about **Cybersecurity, Malware Development & Evasion**  
+
+---
+
+### 💻 Skills & Expertise  
+✅ **Web Hacking** (XSS, SQLi, SSRF, RCE, etc.)  
+✅ **Network Exploitation** (MITM, Wi-Fi Attacks, Pivoting)  
+✅ **Social Engineering** (Phishing, OSINT, Psychological Manipulation)  
+✅ **Malware Development & Evasion**  
+✅ **Security Research & Exploit Development**  
+
+---
+
+### 🛠️ Tools & Technologies  
+🔹 **Programming:** Python, Bash, JavaScript  
+🔹 **Hacking Tools:** Metasploit, Burp Suite, Nmap, Aircrack-ng  
+🔹 **OS:** Linux (Kali, Parrot), Windows, Android  
+🔹 **Frameworks:** Exploit Development, Red Teaming  
+
+---
+
+### 📌 Current Goals  
+🚀 **Developing Custom Hacking Tools & Exploitation Frameworks**  
+🔍 **Researching High-Profile Target Security** (e.g., NASA, Critical Systems)  
+📜 **Pursuing Cybersecurity Certifications** (CEH, OSCP, Security+)  
+
+---
+
+### 🌎 Connect with Me  
+🔗 **GitHub:** [github.com/Sabirtanvir12](https://github.com/Sabirtanvir12)  
+🔗 **Facebook:**[https://facebook.com/](https://www.facebook.com/sabir465)  
+💬 **"Hack the world, secure the future!"**  
+
+---
+
+🔥 **"There is no patch for human stupidity!"**  
