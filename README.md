@@ -33,15 +33,15 @@
 
 ### 📌 Current Goals  
 🚀 **Developing Custom Hacking Tools & Exploitation Frameworks**  
-🔍 **Researching High-Profile Target Security** (e.g., NASA, Critical Systems)  
+🔍 **Researching High-Profile Target Security** (e.g., Critical Systems)  
 📜 **Pursuing Cybersecurity Certifications** (CEH, OSCP, Security+)  
 
 ---
 
 ### 🌎 Connect with Me  
 🔗 **GitHub:** [github.com/Sabirtanvir12](https://github.com/Sabirtanvir12)  
-🔗 **Facebook:**[https://facebook.com/](https://www.facebook.com/sabir465)
-Gmail:cyburner99@gmail.com
+🔗 **Facebook:** [https://facebook.com/](https://www.facebook.com/sabir465)
+**Gmail:cyburner99@gmail.com**
 💬 **"Hack the world, secure the future!"**  
 
 ---
